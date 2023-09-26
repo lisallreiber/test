@@ -1,0 +1,7 @@
+name: Metadata Viz
+output_dir: "docs"
+exclude: ['*.rda', "*.csv", '*.pdf', '*.dta', '*.csv', '*.csl', '*.bibtex', '*.docx', "data"]
+output:
+  html_document:
+    theme: default
+
